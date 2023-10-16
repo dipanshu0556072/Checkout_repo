@@ -1,0 +1,26 @@
+.paymentHeading {
+   font-size: 2rem;
+   margin-bottom: 1rem;
+}
+
+.boldText {
+   font-weight: bold;
+}
+
+.paymentContent {
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+}
+
+.machineImg {
+   width: 500px;
+}
+
+.timerImg {
+   width: 300px;
+}
+
+div {
+   /* border: 1px solid green; */
+}
